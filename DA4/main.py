@@ -16,7 +16,7 @@ def main():
 
     # collect an API url and key
     mapQ_url = "https://www.mapquestapi.com/geocoding/v1/address"
-    mapQ_key = "HKDCNjkGCHx6xOEX8me100n1XKvhGFJe" # (my api key, but repo is private)
+    mapQ_key = "YOUR API KEY HERE!"
 
     # send a request to MapQuest API for geolocated latitude and longitude
     latitude, longitude = utils.map_quest_request(mapQ_url, mapQ_key, city_formatted)
@@ -24,7 +24,7 @@ def main():
     # collect an API url, key, and request parameters (using latitude and longitude)
     meteostat_url = "https://meteostat.p.rapidapi.com/stations/nearby"
     meteostat_key = {"x-rapidapi-host": "meteostat.p.rapidapi.com", 
-                     "x-rapidapi-key": "d43655e34emsh84cbd24bc425d91p19a5ebjsncff3cb4de089" # (my api key, but repo is private)
+                     "x-rapidapi-key": "YOUR API KEY HERE!"
                     }
     meteostat_params = {"lat": str(latitude), "lon": str(longitude)}
 
