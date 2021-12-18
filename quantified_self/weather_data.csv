@@ -1,0 +1,71 @@
+Name,Date time,Maximum Temperature,Minimum Temperature,Temperature,Wind Chill,Heat Index,Precipitation,Snow,Snow Depth,Wind Speed,Wind Direction,Wind Gust,Visibility,Cloud Cover,Relative Humidity,Conditions
+"Spokane, WA, United States",10/03/2021,70.8,43.4,55.4,42.3,,0,0,0,8.8,146.96,20.8,9.9,13.8,62.34,Clear
+"Spokane, WA, United States",10/04/2021,69.6,44.1,55.6,42.5,,0,0,0,8.1,54.33,,9.9,35.2,63.91,Partially cloudy
+"Spokane, WA, United States",10/05/2021,74.1,47.6,60.6,,,0,0,0,12.6,163.29,17.2,9.9,39.1,53.67,Partially cloudy
+"Spokane, WA, United States",10/06/2021,58.1,42.9,50.9,39.3,,0.03,0,0,17.9,177.79,20.1,9.8,62.8,61.41,"Rain, Partially cloudy"
+"Spokane, WA, United States",10/07/2021,58.3,35.5,46,34.9,,0,0,0,8.8,107.96,,9.9,15.8,66.89,Clear
+"Spokane, WA, United States",10/08/2021,58.9,35.2,45.6,36.9,,0,0,0,5,122.13,,9.9,38.1,66.15,Partially cloudy
+"Spokane, WA, United States",10/09/2021,57.8,34.3,46.5,30.2,,0,0,0,13.3,183.58,18.3,9.9,36,61.01,Partially cloudy
+"Spokane, WA, United States",10/10/2021,58.5,41,51.8,40,,0,0,0,24,232.29,33.6,9.9,53.6,48.44,Partially cloudy
+"Spokane, WA, United States",10/11/2021,54.8,31.5,42,32.9,,0,0.74,0.74,8.5,212.08,17.2,9.9,9.8,50.58,Snow
+"Spokane, WA, United States",10/12/2021,53.4,29.6,40.9,28.6,,0,0.8,1.18,5.1,140.21,,9.9,26,52.11,"Snow, Partially cloudy"
+"Spokane, WA, United States",10/13/2021,42.1,37.6,39.8,31.6,,0.05,0.23,1.18,10.7,183.08,,9.6,99.2,77.6,"Snow, Overcast"
+"Spokane, WA, United States",10/14/2021,50.6,33.1,41.8,28.7,,0.01,0,1.18,10.4,145.96,,9.3,80.8,80.69,"Rain, Overcast"
+"Spokane, WA, United States",10/15/2021,56.6,43.6,49,39.1,,0,0,0.39,10.5,133.33,,9.9,90.2,70.46,Overcast
+"Spokane, WA, United States",10/16/2021,70.2,40,52.8,37.3,,0,0,0,11.9,85.17,,9.3,36.7,62.25,Partially cloudy
+"Spokane, WA, United States",10/17/2021,68.4,41.8,52.3,39.4,,0,0,0,6.1,116.46,18.3,9.9,27.4,61.54,Partially cloudy
+"Spokane, WA, United States",10/18/2021,64.7,38.3,49.6,40.6,,0,0,0,5.7,110.04,,9.7,3.3,66.28,Clear
+"Spokane, WA, United States",10/19/2021,66.8,37.5,50,40.2,,0,0,0,6.6,67.26,,9.8,5.6,65.7,Clear
+"Spokane, WA, United States",10/20/2021,58.1,46.4,51.6,43.7,,0.08,0,0,19.2,141.5,24.4,9.7,61,63.29,"Rain, Partially cloudy"
+"Spokane, WA, United States",10/21/2021,62.8,45.4,52.6,45,,0,0,0,13.3,69,,9.9,62.9,71.52,Partially cloudy
+"Spokane, WA, United States",10/22/2021,55,47.9,51.3,42.7,,0.18,0,0,12.1,181.42,29.8,9.2,94.9,81.88,"Rain, Overcast"
+"Spokane, WA, United States",10/23/2021,53,43.7,47.9,38.1,,0.05,0,0,11.6,186.08,,9.8,93.1,80.15,"Rain, Overcast"
+"Spokane, WA, United States",10/24/2021,52.7,44.1,48.9,39.1,,0.17,0,0,17.8,108.21,24.2,9.6,82.7,79.62,"Rain, Overcast"
+"Spokane, WA, United States",10/25/2021,55.6,41.3,48.1,40,,0.15,0,0,15.4,154.33,24.2,9.8,57.8,71.48,"Rain, Partially cloudy"
+"Spokane, WA, United States",10/26/2021,52.6,42.3,47.6,37.2,,0.01,0,0,19.6,208.08,28.4,9.9,92.4,72.71,"Rain, Overcast"
+"Spokane, WA, United States",10/27/2021,52.3,40.9,47.3,33.8,,0,0,0,20.8,231.33,34.4,9.9,56.3,66.15,Partially cloudy
+"Spokane, WA, United States",10/28/2021,63.8,44.1,54.1,39.1,,0.06,0,0,23.6,181.33,36.1,9.6,96.6,73.7,"Rain, Overcast"
+"Spokane, WA, United States",10/29/2021,59.1,39.9,51.1,37.6,,0.41,0,0,15.1,248.75,29.8,9.2,77,78.47,"Rain, Overcast"
+"Spokane, WA, United States",10/30/2021,48.8,29.3,38.4,23.3,,0,0,0,14.8,109,,9,10.9,70.65,Clear
+"Spokane, WA, United States",10/31/2021,50.2,29.4,37.9,26.3,,0,0,0,12.8,33.42,17.2,9.9,1.2,58.89,Clear
+"Spokane, WA, United States",11/01/2021,53,29.8,40.1,28.6,,0,0,0,9,49.33,,9.9,23.4,56.23,Clear
+"Spokane, WA, United States",11/02/2021,49.4,40.2,43.8,36.4,,0,0,0,8.2,89.52,,9.5,92.7,76.96,Overcast
+"Spokane, WA, United States",11/03/2021,55.2,43.1,47.4,40.7,,0,0,0,5.8,37.21,,7.9,84.9,81.03,Overcast
+"Spokane, WA, United States",11/04/2021,55.5,44.7,48.8,41.3,,0.29,0,0,20.6,145.38,30.1,8.2,89,87.24,"Rain, Overcast"
+"Spokane, WA, United States",11/05/2021,49.6,38.7,44.6,35.3,,0.02,0,0,15.2,173.46,29.8,9.9,71.3,79.44,"Rain, Partially cloudy"
+"Spokane, WA, United States",11/06/2021,46.7,36.3,40.7,30.6,,0.01,0,0,13.4,150.92,24.2,9.9,69.9,83.01,"Rain, Partially cloudy"
+"Spokane, WA, United States",11/07/2021,46.2,34.1,39.9,25.7,,0,0,0,18.3,210.28,27.7,9.9,55.7,65.67,Partially cloudy
+"Spokane, WA, United States",11/08/2021,49.8,34.6,40.6,30.2,,0,1.61,1.61,11.4,135.92,,9.9,43.3,63.99,"Snow, Partially cloudy"
+"Spokane, WA, United States",11/09/2021,49.7,35.7,41.1,28.6,,0.2,0.97,2.58,19.3,167.63,31.8,9.2,58,76.74,"Snow, Partially cloudy"
+"Spokane, WA, United States",11/10/2021,44.9,31.8,37.8,24.4,,0,0.06,2.17,12.1,189.92,26.4,9.9,46.1,78.4,"Snow, Partially cloudy"
+"Spokane, WA, United States",11/11/2021,41.5,34.4,37.8,30.2,,0.28,0.04,1.81,8.5,87.13,,7.2,96.8,88.34,"Snow, Overcast"
+"Spokane, WA, United States",11/12/2021,47,38.7,43.3,36.2,,0.44,0.68,1.18,9.4,181,,4.5,91.8,95.1,"Snow, Overcast"
+"Spokane, WA, United States",11/13/2021,45.1,34.8,40.6,33.1,,0.04,0,0.39,8.4,139.21,,7.2,77,91.08,"Rain, Overcast"
+"Spokane, WA, United States",11/14/2021,58.7,41.2,53.7,41.4,,0.11,0,0,28.8,202.13,45.4,8.9,57,78.5,"Rain, Partially cloudy"
+"Spokane, WA, United States",11/15/2021,58.3,39.2,52,29,,0.06,0,0,35.3,225.25,58,9.8,45.8,58.87,"Rain, Partially cloudy"
+"Spokane, WA, United States",11/16/2021,43.6,27.7,35.1,23.2,,0,0.74,0.74,23.8,262.29,37.9,9.8,35.5,67.5,"Snow, Partially cloudy"
+"Spokane, WA, United States",11/17/2021,37.7,21.8,29.1,20,,0,1.94,1.96,7.5,127.67,,9.9,23.2,72.29,Snow
+"Spokane, WA, United States",11/18/2021,36.3,29.8,32.7,25.2,,0.22,1.34,2.92,7.5,54.79,,6.5,85.5,77.66,"Snow, Overcast"
+"Spokane, WA, United States",11/19/2021,37,31.9,34.3,29.2,,0.31,0.58,1.62,6.4,187.58,,5,90.6,94.52,"Snow, Overcast"
+"Spokane, WA, United States",11/20/2021,36.7,30.3,34.4,26.7,,0,0.65,1.69,10.1,134.25,,8.1,92.2,89.03,"Snow, Overcast"
+"Spokane, WA, United States",11/21/2021,42.2,29.9,34.5,25.9,,0,2.72,3.88,5.1,64.13,,6.2,60.5,90.1,"Snow, Partially cloudy"
+"Spokane, WA, United States",11/22/2021,38.5,28.8,32.4,23.7,,0,1.47,3.46,6.9,135.88,,4.1,66.8,93.66,"Snow, Partially cloudy"
+"Spokane, WA, United States",11/23/2021,35.1,31.8,33.3,25.9,,0.3,1.15,4.16,8.9,259.42,,4.8,100,93.09,"Snow, Overcast"
+"Spokane, WA, United States",11/24/2021,39.5,30,33.5,25.4,,0,0.65,2.65,7.7,121.29,,7.2,88.1,88.24,"Snow, Overcast"
+"Spokane, WA, United States",11/25/2021,44.7,31.5,39.3,31.3,,0.01,4.35,6.18,11.3,88.5,,9.4,96.6,75.97,"Snow, Overcast"
+"Spokane, WA, United States",11/26/2021,50.5,42,45.2,38.5,,0.02,2.44,6.74,11.1,216.67,25.3,9.9,83.6,75.02,"Snow, Overcast"
+"Spokane, WA, United States",11/27/2021,48.6,38.4,43.1,36.7,,0.22,0,5.28,15.9,80.58,25.3,4.9,81.2,94.14,"Rain, Overcast"
+"Spokane, WA, United States",11/28/2021,56.9,48.9,53.2,44.6,,0.01,0.97,3.53,19.7,220.83,32.2,9.9,58.7,73.98,"Snow, Partially cloudy"
+"Spokane, WA, United States",11/29/2021,54.4,45.7,48.5,42.3,,0,0,2.22,10.6,207.96,20.8,9.9,56.3,81.8,Partially cloudy
+"Spokane, WA, United States",11/30/2021,52.2,45.5,48.9,41.9,,0,0,0.52,16.2,192.67,25.3,9.9,86.2,73.99,Overcast
+"Spokane, WA, United States",12/01/2021,60,49.6,54.7,45.4,,0,0,0,17.5,215.54,39.9,9.9,44.7,71.02,Partially cloudy
+"Spokane, WA, United States",12/02/2021,53.6,37.6,46.5,35.5,,0,0,0,15.6,217.29,25,9.9,60.6,68.07,Partially cloudy
+"Spokane, WA, United States",12/03/2021,37.6,30.4,34.7,29.4,,0,1.67,1.67,4.8,59.21,,9.7,59.5,86.43,"Snow, Partially cloudy"
+"Spokane, WA, United States",12/04/2021,38.1,33.4,35.4,27,,0.02,1,2.67,10.8,166.7,,8.9,94.8,83.57,"Snow, Overcast"
+"Spokane, WA, United States",12/05/2021,33.7,24.3,28.9,18.4,,0,0.92,1.78,10,197.21,,8.7,31.5,65.46,"Snow, Partially cloudy"
+"Spokane, WA, United States",12/06/2021,27.5,24.3,26.2,19.2,,0.07,1.08,1.74,6.9,58.13,,7.7,97.5,79.77,"Snow, Overcast"
+"Spokane, WA, United States",12/07/2021,32.8,26.8,29.9,23.3,,0,0.41,1.58,4,60.17,,2.8,89.6,92.95,"Snow, Overcast"
+"Spokane, WA, United States",12/08/2021,42.8,29.3,35.7,22.1,,1.47,0,0.86,19.3,233.67,33.9,7.1,53.6,78.21,"Rain, Partially cloudy"
+"Spokane, WA, United States",12/09/2021,33,26.4,30.4,17.8,,0,0,0,11.6,233.35,,9.4,79.1,83.41,Overcast
+"Spokane, WA, United States",12/10/2021,36.1,26.3,31.6,17,,0,0,0,22.4,199.1,25.1,8.6,96.2,85.27,Overcast
+"Spokane, WA, United States",12/11/2021,44.8,35.8,41.4,25.9,,0.09,0,0,24.9,158.82,35.9,9.5,97.1,70.47,"Rain, Overcast"
